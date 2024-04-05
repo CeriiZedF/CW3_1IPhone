@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="vitrine">
+        <img [src]="selected_image.src" alt="">
+    </div>
+    <div class="selector">
+        <ul>
+            <li *ngFor="let iphone of Iphones" [ngStyle]="{backgroundColor: iphone.color}"
+                (click)= "onSelect(iphone)">
+            </li>
+        </ul>
+    </div>
+</div>
+
