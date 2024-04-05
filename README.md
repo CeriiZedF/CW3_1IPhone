@@ -1,5 +1,10 @@
 # CW31IPhone
 
+![Screenshot 2024-04-05 152157](https://github.com/CeriiZedF/CW3_1IPhone/assets/60105990/aff17db1-ce10-4d23-a579-a32da3b53212)
+![Screenshot 2024-04-05 152214](https://github.com/CeriiZedF/CW3_1IPhone/assets/60105990/4c8f102c-04fc-4b9e-96ac-f8a92b9cd482)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
 ## Development server
